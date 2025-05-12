@@ -1,0 +1,285 @@
+Backup of /root/piper/trained_models/female_2500_base_10k has been taken to /root/piper/src/python/feedback_pipline/backup/female_2500_base_10k_backup_20250327_015931
+              Timestamp  ... Audio Duration (sec)
+0   2025-03-24 12:43:26  ...                 3.39
+3   2025-03-24 18:32:26  ...                 3.49
+6   2025-03-25 12:11:12  ...                52.75
+9   2025-03-25 12:37:08  ...                77.62
+12  2025-03-25 12:54:00  ...                 3.47
+21  2025-03-26 18:00:04  ...                53.06
+
+[6 rows x 6 columns]
+Global error feedback updated and saved to /root/piper/src/python/feedback_pipline/Global_feeback_count_female/global_error_feedback.csv
+کے, کامیابی, استقامت, کی, اور
+کامیابی
+فیس
+رنگ
+کی, انسان, اہم
+کانگریس
+{'کانگریس', 'اور', 'فیس', 'اہم', 'انسان', 'استقامت', 'کامیابی', 'کے', 'رنگ', 'کی'}
+کامیابی محنت کا صلہ ہوتی ہے، کبھی مایوس نہ ہوں۔  
+ہمت اور مستقل مزاجی کامیابی کی کنجی ہیں۔  
+کامیابی کا سفر ہمیشہ شروعات سے شروع ہوتا ہے۔  
+ناکامیاں بھی کامیابی کے اہم حصے ہیں، انہیں قبول کریں۔  
+کامیابی حاصل کرنے کے لیے خود پر یقین رکھیں۔  
+مشکل وقت میں کوششیں کامیابی کی راہ ہموار کرتی ہیں۔  
+کامیابی ملنے پر دوسروں کو بھی یاد رکھیں۔  
+زندگی میں کامیابی خوابوں کی تعبیر ہے، محنت کریں۔  
+کامیابی کا مطلب ہمیشہ خوشی نہیں ہوتا، مطمئن رہیں۔  
+کامیابی کی چابی کبھی کبھی نئے تجربات ہیں۔  
+عملی میدان میں کامیابی کی مکمل منصوبہ بندی ضروری ہے۔  
+کامیابی کی منزل تک پہنچنے کے لیے صبر اہم ہے۔  
+کامیابی کے لیے خود کو ثابت کرنا ہی بہترین راستہ ہے۔  
+کامیابی کا حصول عزم اور محنت کی ضرورت ہے۔  
+علم و حکمت کی روشنی کامیابی کی ضمانت دیتی ہے۔  
+کامیابی کی تعریف ہر ایک کے لیے مختلف ہوتی ہے۔  
+کامیاب لوگ ہمیشہ اپنے اوپر اعتماد کرتے ہیں۔  
+وقت اور توانائی کا صحیح استعمال کامیابی کی بنیاد ہے۔  
+کامیابی کے راستے میں رکاوٹیں بھی آتی ہیں، دھیان رکھیں۔  
+کامیابی کی راہ میں کچھ قربانیاں دینا پڑتی ہیں۔  
+محنت اور لگن کامیابی کے دشمنوں کو شکست دیتی ہیں۔  
+کامیابی کی خوشبو محنت کے عرق سے پیدا ہوتی ہے۔  
+خود کو چیلنج کرنا کامیابی کی طرف ایک قدم ہے۔  
+کامیابی کے سفر میں مثبت سوچ اہمیت رکھتی ہے۔  
+کامیابی کا راز ہمیشہ نئے ہنر سیکھنے میں ہے۔  
+مشکلات کامیابی کے راستے کی ضرورت ہوتی ہیں۔  
+کامیابی کو حاصل کرنے کے لیے، عزم کا مکمل ہونا ضروری ہے۔  
+کامیاب لوگ اپنے وقت کی قدر کرتے ہیں، سیکھیں۔  
+کامیابی کی راہ میں علم سب سے بڑا ہتھیار ہے۔  
+کامیابی کے لئے ایک اچھی حکمت عملی بنائیں۔  
+کام میں خوشی کامیابی کی طرف پہلا قدم ہے۔  
+کامیابی کے لیے خود کو مسلسل ترقی دیتے رہیں۔  
+عزم اور لگن کامیابی کی باقاعدہ بنیاد ہے۔  
+کامیابی صرف لڑنے والوں کا قسمت ہے، ہار نہ مانیں۔  
+کامیابی کی خواہش کرنے والوں کو کام کرنا چاہیے۔  
+محنت کی کبھی کمی نہ ہونے دیں، کامیابی آئے گی۔  
+کامیابی کی آغوش میں سکون ملتا ہے، سچ ہے۔  
+خود کو ثابت کرنا ہی کامیابی کا اصل راز ہے۔  
+کامیابی کے سفر میں خود پر اعتماد رکھیں۔  
+کامیابی کی راہ میں چھوٹی چھوٹی فتحیں بھی اہم ہیں۔  
+مخلصی کے ساتھ قدم بڑھانے سے کامیابی ملے گی۔  
+کامیابی کی تلاش میں کبھی ہاتھ خالی نہ لوٹیں۔  
+خوابوں کا پیچھا یقینی کامیابی کی طرف لے جاتا ہے۔  
+کامیابی کا حصول خود پر یقین کرنے سے ممکن ہے۔  
+کامیابی کی بنیاد ہمیشہ مثبت سوچ پر ہوتی ہے۔  
+کامیابی کے لئے کبھی ہار نہ مانیں، ہمیشہ کوشش کریں۔  
+کامیابی کی حوصلہ افزائی کبھی کبھار دوسروں سے بھی ملتی ہے۔  
+کامیابی تک پہنچنے کے لئے لگن لازمی ہے، نہ چھوڑیں۔  
+کامیابی کا سفر ان لوگوں کے لیے سہل ہوتا ہے۔  
+خود کو چیلنج کرنا اور کامیابی تک پہنچنا دونوں اہم ہیں۔  
+کامیابی کی داستانیں محنت کی داستانیں سناتی ہیں۔  
+زندگی کی کامیابی محنت اور محبت کے بغیر ممکن نہیں۔  
+کامیابی کی ہر گلی محنت کے ذریعے ہی ملتی ہے۔  
+کامیابی کا راستہ ہمت اور استقامت سے ہی ہموار ہوتا ہے۔  
+کامیابی خود کی سچائی کو سمجھنے سے شروع ہوتی ہے۔
+['کامیابی محنت کا صلہ ہوتی ہ، کبھی مایوس نہ ہوں۔', 'ہمت اور مستقل مزاجی کامیابی کی کنجی ہیں۔', 'کامیابی کا سفر ہمیشہ شروعات س شروع ہوتا ہ۔', 'ناکامیاں بھی کامیابی ک اہم حص ہیں، انہیں قبول کریں۔', 'کامیابی حاصل کرن ک لی خود پر یقین رکھیں۔', 'مشکل وقت میں کوششیں کامیابی کی راہ ہموار کرتی ہیں۔', 'کامیابی ملن پر دوسروں کو بھی یاد رکھیں۔', 'زندگی میں کامیابی خوابوں کی تعبیر ہ، محنت کریں۔', 'کامیابی کا مطلب ہمیشہ خوشی نہیں ہوتا، مطمن رہیں۔', 'کامیابی کی چابی کبھی کبھی ن تجربات ہیں۔', 'عملی میدان میں کامیابی کی مکمل منصوبہ بندی ضروری ہ۔', 'کامیابی کی منزل تک پہنچن ک لی صبر اہم ہ۔', 'کامیابی ک لی خود کو ثابت کرنا ہی بہترین راستہ ہ۔', 'کامیابی کا حصول عزم اور محنت کی ضرورت ہ۔', 'علم و حکمت کی روشنی کامیابی کی ضمانت دیتی ہ۔', 'کامیابی کی تعریف ہر ایک ک لی مختلف ہوتی ہ۔', 'کامیاب لوگ ہمیشہ اپن اوپر اعتماد کرت ہیں۔', 'وقت اور توانای کا صحیح استعمال کامیابی کی بنیاد ہ۔', 'کامیابی ک راست میں رکاوٹیں بھی تی ہیں، دھیان رکھیں۔', 'کامیابی کی راہ میں کچھ قربانیاں دینا پڑتی ہیں۔', 'محنت اور لگن کامیابی ک دشمنوں کو شکست دیتی ہیں۔', 'کامیابی کی خوشبو محنت ک عرق س پیدا ہوتی ہ۔', 'خود کو چیلنج کرنا کامیابی کی طرف ایک قدم ہ۔', 'کامیابی ک سفر میں مثبت سوچ اہمیت رکھتی ہ۔', 'کامیابی کا راز ہمیشہ ن ہنر سیکھن میں ہ۔', 'مشکلات کامیابی ک راست کی ضرورت ہوتی ہیں۔', 'کامیابی کو حاصل کرن ک لی، عزم کا مکمل ہونا ضروری ہ۔', 'کامیاب لوگ اپن وقت کی قدر کرت ہیں، سیکھیں۔', 'کامیابی کی راہ میں علم سب س بڑا ہتھیار ہ۔', 'کامیابی ک ل ایک اچھی حکمت عملی بنایں۔', 'کام میں خوشی کامیابی کی طرف پہلا قدم ہ۔', 'کامیابی ک لی خود کو مسلسل ترقی دیت رہیں۔', 'عزم اور لگن کامیابی کی باقاعدہ بنیاد ہ۔', 'کامیابی صرف لڑن والوں کا قسمت ہ، ہار نہ مانیں۔', 'کامیابی کی خواہش کرن والوں کو کام کرنا چاہی۔', 'محنت کی کبھی کمی نہ ہون دیں، کامیابی  گی۔', 'کامیابی کی غوش میں سکون ملتا ہ، سچ ہ۔', 'خود کو ثابت کرنا ہی کامیابی کا اصل راز ہ۔', 'کامیابی ک سفر میں خود پر اعتماد رکھیں۔', 'کامیابی کی راہ میں چھوٹی چھوٹی فتحیں بھی اہم ہیں۔', 'مخلصی ک ساتھ قدم بڑھان س کامیابی مل گی۔', 'کامیابی کی تلاش میں کبھی ہاتھ خالی نہ لوٹیں۔', 'خوابوں کا پیچھا یقینی کامیابی کی طرف ل جاتا ہ۔', 'کامیابی کا حصول خود پر یقین کرن س ممکن ہ۔', 'کامیابی کی بنیاد ہمیشہ مثبت سوچ پر ہوتی ہ۔', 'کامیابی ک ل کبھی ہار نہ مانیں، ہمیشہ کوشش کریں۔', 'کامیابی کی حوصلہ افزای کبھی کبھار دوسروں س بھی ملتی ہ۔', 'کامیابی تک پہنچن ک ل لگن لازمی ہ، نہ چھوڑیں۔', 'کامیابی کا سفر ان لوگوں ک لی سہل ہوتا ہ۔', 'خود کو چیلنج کرنا اور کامیابی تک پہنچنا دونوں اہم ہیں۔', 'کامیابی کی داستانیں محنت کی داستانیں سناتی ہیں۔', 'زندگی کی کامیابی محنت اور محبت ک بغیر ممکن نہیں۔', 'کامیابی کی ہر گلی محنت ک ذریع ہی ملتی ہ۔', 'کامیابی کا راستہ ہمت اور استقامت س ہی ہموار ہوتا ہ۔', 'کامیابی خود کی سچای کو سمجھن س شروع ہوتی ہ۔']
+Generated sentences saved to: /root/piper/src/python/feedback_pipline/generated_sentences_female/Generated_sentences_2025-03-27 01:59:43.740947.csv
+Processing sentence 1: کامیابی محنت کا صلہ ہوتی ہ، کبھی مایوس نہ ہوں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_1.wav
+Processing sentence 2: ہمت اور مستقل مزاجی کامیابی کی کنجی ہیں۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_2.wav
+Processing sentence 3: کامیابی کا سفر ہمیشہ شروعات س شروع ہوتا ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_3.wav
+Processing sentence 4: ناکامیاں بھی کامیابی ک اہم حص ہیں، انہیں قبول کریں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_4.wav
+Processing sentence 5: کامیابی حاصل کرن ک لی خود پر یقین رکھیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_5.wav
+Processing sentence 6: مشکل وقت میں کوششیں کامیابی کی راہ ہموار کرتی ہیں۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_6.wav
+Processing sentence 7: کامیابی ملن پر دوسروں کو بھی یاد رکھیں۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_7.wav
+Processing sentence 8: زندگی میں کامیابی خوابوں کی تعبیر ہ، محنت کریں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_8.wav
+Processing sentence 9: کامیابی کا مطلب ہمیشہ خوشی نہیں ہوتا، مطمن رہیں۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_9.wav
+Processing sentence 10: کامیابی کی چابی کبھی کبھی ن تجربات ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_10.wav
+Processing sentence 11: عملی میدان میں کامیابی کی مکمل منصوبہ بندی ضروری ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_11.wav
+Processing sentence 12: کامیابی کی منزل تک پہنچن ک لی صبر اہم ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_12.wav
+Processing sentence 13: کامیابی ک لی خود کو ثابت کرنا ہی بہترین راستہ ہ۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_13.wav
+Processing sentence 14: کامیابی کا حصول عزم اور محنت کی ضرورت ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_14.wav
+Processing sentence 15: علم و حکمت کی روشنی کامیابی کی ضمانت دیتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_15.wav
+Processing sentence 16: کامیابی کی تعریف ہر ایک ک لی مختلف ہوتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_16.wav
+Processing sentence 17: کامیاب لوگ ہمیشہ اپن اوپر اعتماد کرت ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_17.wav
+Processing sentence 18: وقت اور توانای کا صحیح استعمال کامیابی کی بنیاد ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_18.wav
+Processing sentence 19: کامیابی ک راست میں رکاوٹیں بھی تی ہیں، دھیان رکھیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_19.wav
+Processing sentence 20: کامیابی کی راہ میں کچھ قربانیاں دینا پڑتی ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_20.wav
+Processing sentence 21: محنت اور لگن کامیابی ک دشمنوں کو شکست دیتی ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_21.wav
+Processing sentence 22: کامیابی کی خوشبو محنت ک عرق س پیدا ہوتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_22.wav
+Processing sentence 23: خود کو چیلنج کرنا کامیابی کی طرف ایک قدم ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_23.wav
+Processing sentence 24: کامیابی ک سفر میں مثبت سوچ اہمیت رکھتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_24.wav
+Processing sentence 25: کامیابی کا راز ہمیشہ ن ہنر سیکھن میں ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_25.wav
+Processing sentence 26: مشکلات کامیابی ک راست کی ضرورت ہوتی ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_26.wav
+Processing sentence 27: کامیابی کو حاصل کرن ک لی، عزم کا مکمل ہونا ضروری ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_27.wav
+Processing sentence 28: کامیاب لوگ اپن وقت کی قدر کرت ہیں، سیکھیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_28.wav
+Processing sentence 29: کامیابی کی راہ میں علم سب س بڑا ہتھیار ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_29.wav
+Processing sentence 30: کامیابی ک ل ایک اچھی حکمت عملی بنایں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_30.wav
+Processing sentence 31: کام میں خوشی کامیابی کی طرف پہلا قدم ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_31.wav
+Processing sentence 32: کامیابی ک لی خود کو مسلسل ترقی دیت رہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_32.wav
+Processing sentence 33: عزم اور لگن کامیابی کی باقاعدہ بنیاد ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_33.wav
+Processing sentence 34: کامیابی صرف لڑن والوں کا قسمت ہ، ہار نہ مانیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_34.wav
+Processing sentence 35: کامیابی کی خواہش کرن والوں کو کام کرنا چاہی۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_35.wav
+Processing sentence 36: محنت کی کبھی کمی نہ ہون دیں، کامیابی  گی۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_36.wav
+Processing sentence 37: کامیابی کی غوش میں سکون ملتا ہ، سچ ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_37.wav
+Processing sentence 38: خود کو ثابت کرنا ہی کامیابی کا اصل راز ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_38.wav
+Processing sentence 39: کامیابی ک سفر میں خود پر اعتماد رکھیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_39.wav
+Processing sentence 40: کامیابی کی راہ میں چھوٹی چھوٹی فتحیں بھی اہم ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_40.wav
+Processing sentence 41: مخلصی ک ساتھ قدم بڑھان س کامیابی مل گی۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_41.wav
+Processing sentence 42: کامیابی کی تلاش میں کبھی ہاتھ خالی نہ لوٹیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_42.wav
+Processing sentence 43: خوابوں کا پیچھا یقینی کامیابی کی طرف ل جاتا ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_43.wav
+Processing sentence 44: کامیابی کا حصول خود پر یقین کرن س ممکن ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_44.wav
+Processing sentence 45: کامیابی کی بنیاد ہمیشہ مثبت سوچ پر ہوتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_45.wav
+Processing sentence 46: کامیابی ک ل کبھی ہار نہ مانیں، ہمیشہ کوشش کریں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_46.wav
+Processing sentence 47: کامیابی کی حوصلہ افزای کبھی کبھار دوسروں س بھی ملتی ہ۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_47.wav
+Processing sentence 48: کامیابی تک پہنچن ک ل لگن لازمی ہ، نہ چھوڑیں۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_48.wav
+Processing sentence 49: کامیابی کا سفر ان لوگوں ک لی سہل ہوتا ہ۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_49.wav
+Processing sentence 50: خود کو چیلنج کرنا اور کامیابی تک پہنچنا دونوں اہم ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_50.wav
+Processing sentence 51: کامیابی کی داستانیں محنت کی داستانیں سناتی ہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_51.wav
+Processing sentence 52: زندگی کی کامیابی محنت اور محبت ک بغیر ممکن نہیں۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_52.wav
+Processing sentence 53: کامیابی کی ہر گلی محنت ک ذریع ہی ملتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_53.wav
+Processing sentence 54: کامیابی کا راستہ ہمت اور استقامت س ہی ہموار ہوتا ہ۔
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_54.wav
+Processing sentence 55: کامیابی خود کی سچای کو سمجھن س شروع ہوتی ہ۔
+{'percent': 0, 'finished': False, 'message': 'Recording narration'}
+Downloaded to /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_55.wav
+All audio files have been processed.
+Metadata saved to /root/piper/src/python/feedback_pipline/metadata_female/meta_20250327_015931/metadata.csv
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_54.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_54.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_8.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_8.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_27.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_27.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_40.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_40.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_2.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_2.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_45.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_45.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_26.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_26.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_35.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_35.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_51.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_51.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_33.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_33.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_6.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_6.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_34.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_34.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_20.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_20.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_14.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_14.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_36.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_36.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_10.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_10.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_18.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_18.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_55.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_55.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_22.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_22.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_13.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_13.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_30.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_30.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_17.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_17.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_16.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_16.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_37.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_37.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_15.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_15.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_21.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_21.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_50.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_50.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_12.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_12.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_29.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_29.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_48.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_48.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_41.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_41.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_53.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_53.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_9.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_9.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_3.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_3.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_32.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_32.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_7.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_7.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_43.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_43.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_5.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_5.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_4.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_4.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_39.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_39.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_44.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_44.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_49.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_49.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_42.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_42.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_52.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_52.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_1.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_1.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_23.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_23.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_24.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_24.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_47.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_47.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_19.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_19.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_38.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_38.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_11.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_11.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_31.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_31.wav
+Copied /root/piper/src/python/feedback_pipline/Audio_data_female/base_audio_files_20250327_015931/sentence_28.wav to /root/piper/src/python/feedback_pipline/readydata_for_training_female/process_20250327_015931/wav/sentence_28.wav

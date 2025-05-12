@@ -1,0 +1,49 @@
+WEBVTT
+
+00:04.619 --> 00:07.393
+Narakeet helps you create narrated videos quickly.
+
+00:09.620 --> 00:12.198
+You can now automatically create poster images, to use as covers or
+
+00:12.398 --> 00:14.977
+thumbnails when publishing videos.
+
+00:15.659 --> 00:18.158
+When making a video from a presentation, just edit the settings, and
+
+00:18.358 --> 00:20.857
+look for the poster setting at the bottom.
+
+00:21.060 --> 00:23.550
+Narakeet can create the poster image from the first or last frame, or
+
+00:23.750 --> 00:26.241
+for videos that have an intro or outro section, use an image close to
+
+00:26.441 --> 00:28.931
+the start or the end.
+
+00:29.140 --> 00:30.740
+When the video build completes, click the "Get Poster" button at the
+
+00:30.940 --> 00:32.541
+bottom.
+
+00:32.741 --> 00:35.290
+Your browser will download the poster image to the local device, so
+
+00:35.490 --> 00:38.039
+you can easily publish it with your video.
+
+00:38.239 --> 00:41.247
+Users that create videos from Markdown scripts or using our API can
+
+00:41.447 --> 00:44.455
+set the poster image using the poster time header.
+
+00:45.160 --> 00:48.491
+To create text-to-speech videos and audio files with more than 600
+
+00:48.691 --> 00:52.023
+voices in 90 languages, check out Narakeet.com.
