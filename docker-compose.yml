@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  urdu_tts:
+    build:
+      context: .  # Directory where the Dockerfile is located
+      dockerfile: Dockerfile  
+    image: urdu_tts
+    container_name: urdu_tts
+    runtime: nvidia
+    shm_size: 10g
+    volumes:
+      - /root/UrduTTS:/app
+    command: /bin/bash
+
